@@ -13,7 +13,7 @@ Circuit to mount on the breadboard is right this one:
 
 ## Python program - pimorse.py
 
-It has just almost the same behaviour of corresponding C program mentioned above.
+It has just almost the same behaviour of corresponding C program that can be found [here](https://github.com/gabolander/pimorse).
 
 Run with
 
